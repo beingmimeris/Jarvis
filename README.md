@@ -1,4 +1,4 @@
-# 🧠 Jarvis – Local Voice-Controlled AI Assistant with Project Context
+# 🧠  Local Voice-Controlled AI Assistant with Project Context
 
 **Jarvis** is a voice-activated, conversational AI assistant powered by a local LLM (Qwen via Ollama) with **automatic project context analysis**. It listens for a wake word, processes spoken commands using a local language model with LangChain, and responds out loud via TTS. It supports tool-calling for dynamic functions and automatically provides rich project context to enhance LLM responses.
 
